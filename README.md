@@ -1,4 +1,4 @@
-# Bitcoin Price Predictor
+# Future Bitcoin Price Predictor Web App
 
 ## Overview
 This project is a **Bitcoin price predictor** that uses **Random Forest Regressor** to predict the price of Bitcoin on specific user input future date. The model analyzes historical data and makes predictions based on trends, helping users maximize their gains in bitcoin trading. The prices are converted to **Indian Rupees (INR)**.
