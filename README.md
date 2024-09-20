@@ -23,6 +23,7 @@ This project is a **Bitcoin price predictor** that uses **Random Forest Regresso
 - **Pandas**: For data manipulation and preprocessing.
 - **Scikit-learn**: For implementing the machine learning model.
 - **Currency Conversion API**: For converting cryptocurrency prices to INR.
+- **R2 score**: For calculating metrics for accuracy
 
 ## Setup Instructions
 
