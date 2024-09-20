@@ -18,6 +18,7 @@ This project is a **Bitcoin price predictor** that uses **Random Forest Regresso
 
 ## Technologies Used
 - **Python**: Core programming language for the project.
+- **Flask**: Web Framework
 - **Random Forest Regressor**: Machine learning algorithm used for price prediction.
 - **Pandas**: For data manipulation and preprocessing.
 - **Scikit-learn**: For implementing the machine learning model.
