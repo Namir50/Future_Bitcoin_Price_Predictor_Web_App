@@ -29,4 +29,4 @@ This project is a **Bitcoin price predictor** that uses **Random Forest Regresso
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bitcoin-price-predictor.git
+   https://github.com/Namir50/Future_Bitcoin_Price_Predictor_Web_App.git
